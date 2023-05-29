@@ -1,0 +1,17 @@
+* {
+    font-family: 'Arial';
+}
+.new-comment .input-group-text {
+    width: 120px;
+}
+
+
+.card-link {
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.film {
+    width: 500px;
+}
